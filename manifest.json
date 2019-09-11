@@ -2,7 +2,7 @@
     "name": "x-Ninja Apps",
     "short_name": "Ninja PWA",
     "lang": "en-US",
-    "start_url": "/index.html",
+    "start_url": ".",
     "display": "standalone",
     "theme_color": "#ee6e73",
     "orientation": "portrait",
