@@ -1,3 +1,4 @@
+//kondisi 1 apakah browser support dengan sw atau tidak
 if ('serviceWorker' in navigator) {
     console.log('sw.js berhasil didaftarkan')
     navigator.serviceWorker.register('/sw.js');
