@@ -1,3 +1,5 @@
+
+
 $(document).ready(function () {
     var _url = "https://my-json-server.typicode.com/danyismail/pwadb/ninja"
 
