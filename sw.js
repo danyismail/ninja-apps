@@ -1,8 +1,3 @@
-if ('serviceWorker' in navigator) {
-    console.log('sw.js berhasil didaftarkan')
-    navigator.serviceWorker.register('/sw.js');
-}
-
 //install service worker
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
